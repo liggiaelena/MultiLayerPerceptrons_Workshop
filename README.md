@@ -10,9 +10,9 @@
 
 | Name | GitHub | Role |
 |---|---|---|
-| Emmanuel | [@chooksemmanuel](https://github.com/chooksemmanuel) | Developer |
+| Emmanuel Ihejiamaizu | [@chooksemmanuel](https://github.com/chooksemmanuel) | Developer |
 | Liggia Elena Taboada Cruz | [@liggiaelena](https://github.com/liggiaelena) | Developer / Repo Owner |
-| Chao-Chung Liu (Thomas) | [@caatat741213](https://github.com/caatat741213) | Developer |
+| Chao-Chung Liu | [@caatat741213](https://github.com/caatat741213) | Developer |
 
 ---
 
